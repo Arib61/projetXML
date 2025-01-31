@@ -194,7 +194,7 @@ def transform_html(file_type):
         },
         "student_card": {  # 🔥 Ajout ici
         "xml": "data_generated/student_card/StudentCards_GINF2.xml",
-        "xslt": "templates/html_templates/StudentCards.xslt",
+        "xslt": "templates/html_templates/StudentCard.xslt",
         "html": "data_generated/student_card/StudentCards_GINF2.html"
         }
     }
