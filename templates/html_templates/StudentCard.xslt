@@ -150,8 +150,8 @@
                 <xsl:for-each select="b:card">
                     <div class="card-container">
                         <!-- University Logos -->
-                        <img class="logo left" src="{b:logoUae/@uri}" alt="University Logo"/>
-                        <img class="logo right" src="{b:logoEnsa/@uri}" alt="ENSA Logo"/>
+                        <img class="logo left" src="https://projetxml-production.up.railway.app/static/images/logo_uae.png" alt="University Logo"/>
+                        <img class="logo right" src="https://projetxml-production.up.railway.app/static/images/logo_ensa.png" alt="ENSA Logo"/>
 
                         <!-- University Header -->
                         <div class="header">
