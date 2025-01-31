@@ -153,9 +153,11 @@ def generate_tp():
 @main.route('/transform/<file_type>', methods=['GET'])
 def transform_html(file_type):
     """
-    Route dynamique pour transformer des fichiers XML en HTML en utilisant un mapping prédéfini.
-    Route dynamique pour transformer des fichiers XML en HTML en utilisant un mapping prédéfini.
+    Vérifie si un fichier HTML existe avant de le régénérer. 
+    Si le fichier est absent, il est généré à partir du XML et XSLT.
     """
+
+    # Mapping des fichiers XML → XSLT → HTML
     file_mapping = {
         "notes": {
             "xml": "data_generated/notes/Notes_GINF2.xml",
@@ -192,49 +194,39 @@ def transform_html(file_type):
             "xslt": "templates/html_templates/Releve.xslt",
             "html": "data_generated/notes/Releve_GINF2.html"
         },
-        "student_card": {  # 🔥 Ajout ici
-        "xml": "data_generated/student_card/StudentCards_GINF2.xml",
-        "xslt": "templates/html_templates/StudentCard.xslt",
-        "html": "data_generated/student_card/StudentCards_GINF2.html"
+        "student_card": {
+            "xml": "data_generated/student_card/StudentCards_GINF2.xml",
+            "xslt": "templates/html_templates/StudentCard.xslt",
+            "html": "data_generated/student_card/StudentCards_GINF2.html"
         }
     }
 
-    if file_type not in file_mapping:
-        return Response(f"Type de fichier '{file_type}' non valide.", status=400, mimetype="text/html")
+    # Vérifier si le type de fichier est valide
     if file_type not in file_mapping:
         return Response(f"Type de fichier '{file_type}' non valide.", status=400, mimetype="text/html")
 
+    # Récupérer les chemins de fichiers
     config = file_mapping[file_type]
     xml_path = os.path.abspath(config['xml'])
     xslt_path = os.path.abspath(config['xslt'])
     html_path = os.path.abspath(config['html'])
-    config = file_mapping[file_type]
-    xml_path = os.path.abspath(config['xml'])
-    xslt_path = os.path.abspath(config['xslt'])
-    html_path = os.path.abspath(config['html'])
 
-    # Vérification de l'existence des fichiers
+    # **✅ Si le fichier HTML existe déjà, on le sert directement**
+    if os.path.exists(html_path):
+        return send_file(html_path, mimetype="text/html")
+
+    # **🔍 Vérifier si les fichiers XML et XSLT existent avant de transformer**
     if not os.path.exists(xml_path):
-        return Response(f"Fichier XML introuvable : {config['xml']}", status=404, mimetype="text/html")
+        return Response(f"⚠️ Fichier XML introuvable : {config['xml']}", status=404, mimetype="text/html")
     if not os.path.exists(xslt_path):
-        return Response(f"Fichier XSLT introuvable : {config['xslt']}", status=404, mimetype="text/html")
+        return Response(f"⚠️ Fichier XSLT introuvable : {config['xslt']}", status=404, mimetype="text/html")
 
-    # Transformation XML → HTML
+    # **🚀 Transformation XML → HTML uniquement si nécessaire**
     if transform_xml_to_html(xml_path, xslt_path, html_path):
-        html_url = f"/{config['html'].replace(os.sep, '/')}"  # Génération de l'URL correcte
-        return Response(f"HTML généré avec succès : <a href='{html_url}'>{html_url}</a>", mimetype="text/html")
-    # Vérification de l'existence des fichiers
-    if not os.path.exists(xml_path):
-        return Response(f"Fichier XML introuvable : {config['xml']}", status=404, mimetype="text/html")
-    if not os.path.exists(xslt_path):
-        return Response(f"Fichier XSLT introuvable : {config['xslt']}", status=404, mimetype="text/html")
-
-    # Transformation XML → HTML
-    if transform_xml_to_html(xml_path, xslt_path, html_path):
-        html_url = f"/{config['html'].replace(os.sep, '/')}"  # Génération de l'URL correcte
-        return Response(f"HTML généré avec succès : <a href='{html_url}'>{html_url}</a>", mimetype="text/html")
+        return send_file(html_path, mimetype="text/html")
     else:
-        return Response("Erreur lors de la transformation XML → HTML.", mimetype="text/html")
+        return Response("❌ Erreur lors de la transformation XML → HTML.", status=500, mimetype="text/html")
+
     
 @main.route('/pdf/<file_type>', methods=['GET'])
 def transform_to_pdf(file_type):
