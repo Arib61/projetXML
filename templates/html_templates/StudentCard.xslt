@@ -164,7 +164,7 @@
 
                         <!-- Student Photo -->
                         <div class="student-photo-container">
-                            <img class="student-photo" src="https://projetxml-production.up.railway.app/static/images/photoEtudiante.jpg" alt="Student Photo"/>
+                            <img class="student-photo" src="https://projetxml-production.up.railway.app/static/images/photoEtudiante (1).jpg" alt="Student Photo"/>
                         </div>
 
                         <!-- Student Information -->
