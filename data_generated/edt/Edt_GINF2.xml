@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Edt_GINF2.xslt"?>
+<Emlpoi xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="emplois.xsd">
+
+<semaine num="49" annee="2023">
+    <lundi date="05/12">
+        <séance type="CM" debut="09h00" fin="10h30">
+            <module>CRYPTOGRAPHIE</module>
+            <Professeur>LAZAAR</Professeur>
+            <salle>Salle B20</salle>
+        </séance>
+        <séance type="CM" debut="11h00" fin="12h30">
+            <module>CRYPTOGRAPHIE</module>
+            <Professeur>LAZAAR</Professeur>
+            <salle>Salle B20</salle>
+        </séance>
+        <séance type="CM" debut="13h30" fin="15h00">
+            <module>BASES DE DONNEES N</module>
+            <Professeur>BADIR</Professeur>
+            <salle>Salle B20</salle>
+        </séance>
+        <séance type="TP" debut="15h30" fin="17h00">
+            <module>BASES DE DONNEES N</module>
+            <Professeur>BADIR</Professeur>
+            <salle>Salle B20</salle>
+        </séance>
+    </lundi>
+    <mardi date="06/12">
+        <séance type="TP" debut="09h00" fin="10h30">
+            <module>PROGRAMMATION DECL</module>
+            <Professeur>CHAFIK</Professeur>
+            <salle>Salle B20</salle>
+        </séance>
+        <séance type="TP" debut="11h00" fin="12h30">
+            <module>PROGRAMMATION DECL</module>
+            <Professeur>CHAFIK</Professeur>
+            <salle>Salle B20</salle>
+        </séance>
+        <séance type="CM" debut="13h30" fin="15h00">
+            <module>PROGRAMMATION DECL</module>
+            <Professeur>EL ALAMI</Professeur>
+            <salle>Salle B20</salle>
+        </séance>
+    </mardi>
+    <mercredi date="07/12">
+        <séance type="TP" debut="09h00" fin="10h30">
+            <module>TRAITEMENT D IMAGE</module>
+            <Professeur>LACHKAR</Professeur>
+            <salle>Salle B20</salle>
+        </séance>
+        <séance type="CM" debut="11h00" fin="12h30">
+            <module>TRAITEMENT D IMAGE</module>
+            <Professeur>LACHKAR</Professeur>
+            <salle>Salle B20</salle>
+        </séance>
+        <séance type="TP" debut="13h30" fin="15h00">
+            <module>MANAGEMENT DE PROJ</module>
+            <Professeur>RAHALI AZOUZI</Professeur>
+            <salle>Salle B20</salle>
+        </séance>
+        <séance type="TP" debut="15h30" fin="17h00">
+            <module>MANAGEMENT DE PROJ</module>
+            <Professeur>RAHALI AZOUZI</Professeur>
+            <salle>Salle B20</salle>
+        </séance>
+    </mercredi>
+    <jeudi date="08/12">
+        <séance type="TP" debut="09h00" fin="10h30">
+            <module>CRYPTOGRAPHIE</module>
+            <Professeur>LAZAAR</Professeur>
+            <salle>Salle B20</salle>
+        </séance>
+        <séance type="CM" debut="11h00" fin="12h30">
+            <module>DOT NET C SHARP</module>
+            <Professeur>GHAILANI</Professeur>
+            <salle>Salle B20</salle>
+        </séance>
+        <séance type="TP" debut="13h30" fin="15h00">
+            <module>DOT NET C SHARP</module>
+            <Professeur>GHAILANI</Professeur>
+            <salle>Salle B20</salle>
+        </séance>
+        <séance type="TP" debut="15h30" fin="17h00">
+            <module>DOT NET C SHARP</module>
+            <Professeur>GHAILANI</Professeur>
+            <salle>Salle B20</salle>
+        </séance>
+    </jeudi>
+    <vendredi date="09/12">
+        <séance type="CM" debut="09h00" fin="10h30">
+            <module>GESTION DES DONNEE</module>
+            <Professeur>BADIR</Professeur>
+            <salle>Salle B20</salle>
+        </séance>
+        <séance type="TP" debut="11h00" fin="12h30">
+            <module>GESTION DES DONNEE</module>
+            <Professeur>BADIR</Professeur>
+            <salle>Salle B20</salle>
+        </séance>
+        <séance type="CM" debut="13h30" fin="15h00">
+            <module>COMPTABILITE 2</module>
+            <Professeur>NAITBOUBKER</Professeur>
+            <salle>Salle B20</salle>
+        </séance>
+        <séance type="CM" debut="15h30" fin="17h00">
+            <module>COMPTABILITE 2</module>
+            <Professeur>NAITBOUBKER</Professeur>
+            <salle>Salle B20</salle>
+        </séance>
+    </vendredi>
+    <samedi date="10/12">
+    </samedi>
+</semaine>
+</Emlpoi>

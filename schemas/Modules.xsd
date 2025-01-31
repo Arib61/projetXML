@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Modules">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Module" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ModuleID" type="xs:string"/>
+              <xs:element name="ModuleName" type="xs:string"/>
+              <xs:element name="ElementName1" type="xs:string"/>
+              <xs:element name="ElementName2" type="xs:string"/>
+              <xs:element name="Dept_Attachement" type="xs:string"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

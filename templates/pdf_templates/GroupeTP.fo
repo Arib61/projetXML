@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+                xmlns:fo="http://www.w3.org/1999/XSL/Format"
+                version="1.0">
+    <xsl:output method="xml" indent="yes"/>
+
+    <!-- Template match for the root element -->
+    <xsl:template match="/TPGroups">
+        <fo:root>
+            <!-- Page Layout -->
+            <fo:layout-master-set>
+                <fo:simple-page-master master-name="A4" page-width="210mm" page-height="297mm" margin="1cm">
+                    <fo:region-body margin-top="3cm"/>
+                    <fo:region-before extent="3cm"/>
+                    <fo:region-after extent="2cm"/>
+                </fo:simple-page-master>
+            </fo:layout-master-set>
+
+            <fo:page-sequence master-reference="A4">
+                <!-- Header -->
+                <fo:static-content flow-name="xsl-region-before">
+                    <fo:block-container>
+                        <fo:table table-layout="fixed" width="100%">
+                            <fo:table-column column-width="33%"/>
+                            <fo:table-column column-width="34%"/>
+                            <fo:table-column column-width="33%"/>
+                            <fo:table-body>
+                                <fo:table-row>
+                                    <!-- Left Logo -->
+                                    <fo:table-cell>
+                                        <fo:block text-align="center">
+                                            <fo:external-graphic src="../../images/logoUae.png" content-width="auto" content-height="2cm"/>
+                                        </fo:block>
+                                    </fo:table-cell>
+
+                                    <!-- Title -->
+                                    <fo:table-cell>
+                                        <fo:block text-align="center" font-size="12pt" font-weight="bold">
+                                            Université Abdelmalek Essaâdi<br/>
+                                            Ecole Nationale des Sciences Appliquées<br/>
+                                            Tanger
+                                        </fo:block>
+                                    </fo:table-cell>
+
+                                    <!-- Right Logo -->
+                                    <fo:table-cell>
+                                        <fo:block text-align="center">
+                                            <fo:external-graphic src="../../images/ensat.png" content-width="auto" content-height="2cm"/>
+                                        </fo:block>
+                                    </fo:table-cell>
+                                </fo:table-row>
+                            </fo:table-body>
+                        </fo:table>
+                    </fo:block-container>
+                </fo:static-content>
+
+                <!-- Main Content -->
+                <fo:flow flow-name="xsl-region-body">
+                    <!-- Title -->
+                    <fo:block font-size="18pt" font-weight="bold" text-align="center" margin-bottom="20pt">
+                        Groupes TP et Étudiants
+                    </fo:block>
+
+                    <!-- Table -->
+                    <fo:table table-layout="fixed" width="100%" border-collapse="collapse">
+                        <!-- Table columns -->
+                        <fo:table-column column-width="30%"/>
+                        <fo:table-column column-width="70%"/>
+
+                        <!-- Table header -->
+                        <fo:table-header>
+                            <fo:table-row>
+                                <fo:table-cell background-color="#f2f2f2" border="0.5pt solid black">
+                                    <fo:block font-weight="bold" font-size="12pt" text-align="center">Groupe TP</fo:block>
+                                </fo:table-cell>
+                                <fo:table-cell background-color="#f2f2f2" border="0.5pt solid black">
+                                    <fo:block font-weight="bold" font-size="12pt" text-align="center">Les étudiants</fo:block>
+                                </fo:table-cell>
+                            </fo:table-row>
+                        </fo:table-header>
+
+                        <!-- Table body -->
+                        <fo:table-body>
+                            <xsl:for-each select="Group">
+                                <xsl:variable name="group-id" select="@id"/>
+                                <xsl:variable name="students" select="Student"/>
+
+                                <!-- First row for the group -->
+                                <fo:table-row>
+                                    <!-- Group column -->
+                                    <fo:table-cell border="0.5pt solid black" background-color="#d3d3d3">
+                                        <fo:block font-size="10pt" font-weight="bold" text-align="center">
+                                            GROUPE <xsl:value-of select="$group-id"/>
+                                        </fo:block>
+                                    </fo:table-cell>
+                                    <!-- First student -->
+                                    <fo:table-cell border="0.5pt solid black">
+                                        <fo:block font-size="10pt">
+                                            <xsl:value-of select="$students[1]/Nom"/> <xsl:value-of select="$students[1]/Prenom"/>
+                                        </fo:block>
+                                    </fo:table-cell>
+                                </fo:table-row>
+
+                                <!-- Additional students -->
+                                <xsl:for-each select="Student[position() > 1]">
+                                    <fo:table-row>
+                                        <fo:table-cell border="0.5pt solid black">
+                                            <!-- Empty cell for alignment -->
+                                            <fo:block/>
+                                        </fo:table-cell>
+                                        <fo:table-cell border="0.5pt solid black">
+                                            <fo:block font-size="10pt">
+                                                <xsl:value-of select="Nom"/> <xsl:value-of select="Prenom"/>
+                                            </fo:block>
+                                        </fo:table-cell>
+                                    </fo:table-row>
+                                </xsl:for-each>
+                            </xsl:for-each>
+                        </fo:table-body>
+                    </fo:table>
+                </fo:flow>
+            </fo:page-sequence>
+        </fo:root>
+    </xsl:template>
+</xsl:stylesheet>

@@ -1,0 +1,13 @@
+<!ELEMENT Students (Student+)>
+<!ELEMENT Student (CodeApogee, Nom, Prenom, DateNaissance, Modules)>
+<!ELEMENT Modules (Module+)>
+<!ELEMENT Module (Name, SubModules?, NoteFinale)>
+<!ELEMENT Name (#PCDATA)>
+<!ELEMENT SubModules (SubModule+)>
+<!ELEMENT SubModule (Name, Note)>
+<!ELEMENT NoteFinale (#PCDATA)>
+<!ELEMENT Note (#PCDATA)>
+<!ELEMENT CodeApogee (#PCDATA)>
+<!ELEMENT Nom (#PCDATA)>
+<!ELEMENT Prenom (#PCDATA)>
+<!ELEMENT DateNaissance (#PCDATA)>

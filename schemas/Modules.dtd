@@ -1,0 +1,7 @@
+<!ELEMENT Modules (Module+)>
+<!ELEMENT Module (ModuleID, ModuleName, ElementName1, ElementName2, Dept_Attachement)>
+<!ELEMENT ModuleID (#PCDATA)>
+<!ELEMENT ModuleName (#PCDATA)>
+<!ELEMENT ElementName1 (#PCDATA)>
+<!ELEMENT ElementName2 (#PCDATA)>
+<!ELEMENT Dept_Attachement (#PCDATA)>

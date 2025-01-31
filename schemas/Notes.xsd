@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <!-- Élément racine -->
+  <xs:element name="Students">
+    <xs:complexType>
+      <xs:sequence>
+        <!-- Élément Student -->
+        <xs:element name="Student" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CodeApogee" type="xs:string"/>
+              <xs:element name="Nom" type="xs:string"/>
+              <xs:element name="Prenom" type="xs:string"/>
+              <xs:element name="DateNaissance" type="xs:date"/>
+              <!-- Élément Modules -->
+              <xs:element name="Modules">
+                <xs:complexType>
+                  <xs:sequence>
+                    <!-- Élément Module -->
+                    <xs:element name="Module" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="Name" type="xs:string"/>
+                          <!-- Élément SubModules -->
+                          <xs:element name="SubModules" minOccurs="0">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <!-- Élément SubModule -->
+                                <xs:element name="SubModule" maxOccurs="unbounded">
+                                  <xs:complexType>
+                                    <xs:sequence>
+                                      <xs:element name="Name" type="xs:string"/>
+                                      <!-- Élément Note avec restriction (0-20) -->
+                                      <xs:element name="Note">
+                                        <xs:simpleType>
+                                          <xs:restriction base="xs:float">
+                                            <xs:minInclusive value="0"/>
+                                            <xs:maxInclusive value="20"/>
+                                          </xs:restriction>
+                                        </xs:simpleType>
+                                      </xs:element>
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                          <!-- Élément NoteFinale avec restriction (0-20) -->
+                          <xs:element name="NoteFinale">
+                            <xs:simpleType>
+                              <xs:restriction base="xs:float">
+                                <xs:minInclusive value="0"/>
+                                <xs:maxInclusive value="20"/>
+                              </xs:restriction>
+                            </xs:simpleType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

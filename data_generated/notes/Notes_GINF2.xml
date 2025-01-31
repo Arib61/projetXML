@@ -1,0 +1,6075 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Students>
+  <Student>
+    <CodeApogee>21010395</CodeApogee>
+    <Nom>ABBAD</Nom>
+    <Prenom>ABDELOUAHED</Prenom>
+    <DateNaissance>2004-06-21</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>15.74</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>14.89</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.31</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>15.92</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>13.05</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.48</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>18.59</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>13.27</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.93</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>11.35</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>10.20</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>10.77</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>10.28</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>17.63</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>13.95</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>19.00</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>13.69</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.34</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21010278</CodeApogee>
+    <Nom>ABDELOUAHAB</Nom>
+    <Prenom>SOUFIANE</Prenom>
+    <DateNaissance>2001-09-25</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>14.53</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>14.28</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.40</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>11.23</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>19.89</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.56</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>10.09</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>12.76</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>11.43</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>11.90</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>13.40</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>12.65</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>16.21</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>16.77</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.49</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>11.25</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>15.01</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>13.13</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21011326</CodeApogee>
+    <Nom>ABOU-EL KASEM</Nom>
+    <Prenom>KENZA</Prenom>
+    <DateNaissance>2003-05-21</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>16.29</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>13.94</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.11</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>11.68</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>12.26</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>11.97</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>19.68</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>17.04</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>18.36</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>13.13</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>15.86</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.49</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>16.91</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>14.47</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.69</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>15.42</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>13.53</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.47</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21010358</CodeApogee>
+    <Nom>AHMYTTOU</Nom>
+    <Prenom>AYA</Prenom>
+    <DateNaissance>2004-02-23</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>11.16</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>14.56</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>12.86</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>19.22</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>18.06</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>18.64</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>17.80</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>12.52</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.16</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>12.48</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>10.19</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>11.34</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>15.84</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>19.75</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.80</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>19.08</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>14.47</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.77</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21010266</CodeApogee>
+    <Nom>AIDOUN</Nom>
+    <Prenom>IBTISSAM</Prenom>
+    <DateNaissance>2002-09-14</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>14.42</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>14.27</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.34</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>12.37</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>18.82</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.59</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>15.56</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>10.13</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>12.85</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>15.98</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>19.86</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.92</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>18.35</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>16.88</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.61</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>10.84</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>16.14</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>13.49</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>20001758</CodeApogee>
+    <Nom>AL AZAMI</Nom>
+    <Prenom>TAREK</Prenom>
+    <DateNaissance>2001-02-23</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>18.46</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>17.70</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>18.08</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>17.76</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>11.66</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.71</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>14.78</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>16.53</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.65</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>13.56</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>12.06</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>12.81</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>10.96</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>14.44</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>12.70</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>19.88</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>18.82</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>19.35</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21010287</CodeApogee>
+    <Nom>ALLAM</Nom>
+    <Prenom>ELARBI</Prenom>
+    <DateNaissance>2004-02-27</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>18.01</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>12.38</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.20</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>16.54</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>10.06</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>13.30</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>17.54</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>14.42</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.98</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>19.08</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>10.71</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.89</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>15.23</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>18.94</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.09</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>13.61</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>17.32</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.46</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21010482</CodeApogee>
+    <Nom>ARIB</Nom>
+    <Prenom>AYMANE</Prenom>
+    <DateNaissance>2003-09-25</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>12.70</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>12.16</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>12.43</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>13.28</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>15.51</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.39</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>16.14</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>18.61</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.38</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>19.15</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>15.65</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.40</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>13.27</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>13.64</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>13.46</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>15.66</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>10.45</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>13.05</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21009157</CodeApogee>
+    <Nom>AZZMAN</Nom>
+    <Prenom>NORELIMANE</Prenom>
+    <DateNaissance>2003-09-26</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>14.21</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>18.03</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.12</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>16.46</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>13.61</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.04</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>12.36</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>16.20</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.28</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>14.18</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>15.53</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.86</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>11.95</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>16.71</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.33</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>19.84</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>15.65</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.75</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21010356</CodeApogee>
+    <Nom>AZZOUZ</Nom>
+    <Prenom>CHAIMAE</Prenom>
+    <DateNaissance>2004-01-31</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>13.98</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>11.18</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>12.58</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>18.94</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>13.92</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.43</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>18.50</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>17.11</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.80</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>16.27</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>16.67</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.47</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>15.05</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>17.51</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.28</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>19.73</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>11.56</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.64</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21010411</CodeApogee>
+    <Nom>BEN IMRAN</Nom>
+    <Prenom>AHLAM</Prenom>
+    <DateNaissance>2003-10-27</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>14.05</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>10.80</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>12.43</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>18.94</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>15.92</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.43</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>15.84</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>17.67</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.75</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>15.39</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>16.47</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.93</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>17.30</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>13.11</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.21</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>18.45</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>15.38</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.91</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21010476</CodeApogee>
+    <Nom>BENCHINE</Nom>
+    <Prenom>ABDELILAH</Prenom>
+    <DateNaissance>2003-12-31</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>10.46</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>14.89</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>12.68</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>12.45</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>12.24</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>12.34</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>17.47</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>10.61</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.04</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>11.36</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>13.29</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>12.32</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>18.87</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>12.48</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.68</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>19.97</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>10.23</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.10</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>22012817</CodeApogee>
+    <Nom>BENMGUIRIDA</Nom>
+    <Prenom>ANAS</Prenom>
+    <DateNaissance>2000-12-18</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>17.40</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>15.09</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.24</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>19.03</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>15.29</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.16</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>18.89</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>11.36</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.12</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>18.61</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>16.44</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.52</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>10.45</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>12.03</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>11.24</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>15.15</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>18.65</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.90</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21009110</CodeApogee>
+    <Nom>BERKOUKT</Nom>
+    <Prenom>AMINE</Prenom>
+    <DateNaissance>2004-05-13</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>19.90</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>18.87</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>19.38</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>11.23</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>10.08</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>10.65</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>13.39</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>10.72</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>12.05</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>16.05</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>10.63</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>13.34</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>17.86</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>15.51</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.68</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>10.93</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>12.67</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>11.80</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21011779</CodeApogee>
+    <Nom>BIGAGANE</Nom>
+    <Prenom>ABDELLAH</Prenom>
+    <DateNaissance>2004-01-13</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>19.92</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>18.30</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>19.11</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>18.82</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>11.47</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.14</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>19.88</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>15.91</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.89</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>17.80</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>12.38</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.09</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>19.36</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>17.45</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>18.41</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>14.27</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>14.71</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.49</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>20011005</CodeApogee>
+    <Nom>BOUHNINE</Nom>
+    <Prenom>SAFAA</Prenom>
+    <DateNaissance>2001-12-28</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>19.23</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>16.05</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.64</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>12.53</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>19.21</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.87</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>12.76</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>11.71</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>12.23</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>16.83</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>11.75</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.29</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>12.37</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>12.04</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>12.20</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>11.66</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>13.03</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>12.34</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21002603</CodeApogee>
+    <Nom>BOUKER</Nom>
+    <Prenom>MOHAMMED</Prenom>
+    <DateNaissance>2003-07-19</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>12.14</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>17.35</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.74</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>18.28</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>11.00</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.64</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>15.52</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>19.32</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.42</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>16.25</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>16.62</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.43</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>16.97</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>19.70</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>18.34</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>15.55</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>17.21</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.38</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21010261</CodeApogee>
+    <Nom>BOULERBAH</Nom>
+    <Prenom>YASSER</Prenom>
+    <DateNaissance>2003-09-13</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>17.43</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>15.04</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.23</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>18.85</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>13.76</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.30</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>13.72</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>16.30</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.01</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>16.90</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>11.15</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.02</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>16.51</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>15.40</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.96</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>15.38</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>14.48</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.93</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21011724</CodeApogee>
+    <Nom>BOUNOUAR</Nom>
+    <Prenom>MOHAMMED</Prenom>
+    <DateNaissance>2003-12-15</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>12.57</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>18.28</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.43</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>13.00</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>13.26</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>13.13</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>15.99</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>17.69</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.84</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>19.57</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>11.59</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.58</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>18.34</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>13.02</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.68</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>13.73</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>15.16</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.45</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21009025</CodeApogee>
+    <Nom>BOUSSAID</Nom>
+    <Prenom>MERYEME</Prenom>
+    <DateNaissance>2003-05-10</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>15.73</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>13.31</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.52</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>12.11</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>14.56</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>13.34</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>14.72</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>15.36</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.04</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>18.67</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>12.42</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.54</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>14.25</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>15.47</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.86</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>14.79</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>10.22</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>12.50</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21010326</CodeApogee>
+    <Nom>CHAIBERRAS</Nom>
+    <Prenom>SOUHAIL</Prenom>
+    <DateNaissance>2003-04-17</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>17.73</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>17.40</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.56</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>14.95</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>14.72</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.84</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>19.63</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>19.96</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>19.80</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>19.61</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>12.03</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.82</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>14.94</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>19.71</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.32</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>17.05</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>11.10</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.07</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21010299</CodeApogee>
+    <Nom>CHERKI</Nom>
+    <Prenom>HOUSSAM</Prenom>
+    <DateNaissance>2003-04-20</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>19.82</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>16.19</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>18.00</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>16.21</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>12.75</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.48</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>16.75</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>13.61</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.18</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>11.59</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>19.79</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.69</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>17.82</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>19.57</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>18.70</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>10.47</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>13.18</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>11.82</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21009475</CodeApogee>
+    <Nom>DAHBI</Nom>
+    <Prenom>MOAD</Prenom>
+    <DateNaissance>2003-09-03</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>18.49</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>12.57</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.53</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>18.16</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>14.55</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.36</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>11.23</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>17.40</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.31</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>15.86</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>17.87</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.86</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>19.54</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>16.90</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>18.22</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>19.25</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>11.57</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.41</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21010439</CodeApogee>
+    <Nom>ECHCHRIKI</Nom>
+    <Prenom>IMAD</Prenom>
+    <DateNaissance>2002-04-14</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>17.26</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>18.00</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.63</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>15.68</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>14.74</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.21</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>17.69</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>17.73</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.71</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>14.64</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>11.99</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>13.31</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>12.50</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>14.34</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>13.42</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>11.87</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>17.20</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.54</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21010403</CodeApogee>
+    <Nom>EL ADNANI</Nom>
+    <Prenom>EL MEHDI</Prenom>
+    <DateNaissance>2003-04-18</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>17.83</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>10.12</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>13.97</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>16.28</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>14.01</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.14</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>19.13</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>13.87</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.50</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>17.85</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>11.51</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.68</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>15.33</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>12.83</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.08</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>12.21</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>15.87</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.04</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21010379</CodeApogee>
+    <Nom>EL AIDI IDRISSI</Nom>
+    <Prenom>ACHRAF</Prenom>
+    <DateNaissance>2004-02-12</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>15.20</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>18.71</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.95</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>11.48</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>16.13</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>13.80</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>13.39</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>11.56</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>12.47</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>10.20</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>14.05</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>12.12</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>15.58</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>19.67</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.62</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>11.75</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>17.72</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.73</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21010272</CodeApogee>
+    <Nom>EL AOUAD</Nom>
+    <Prenom>OUAAIL</Prenom>
+    <DateNaissance>2003-07-19</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>13.65</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>16.19</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.92</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>16.33</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>12.15</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.24</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>15.72</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>16.84</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.28</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>19.37</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>11.69</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.53</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>19.98</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>19.16</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>19.57</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>15.07</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>13.14</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.11</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21010324</CodeApogee>
+    <Nom>EL BAKALI</Nom>
+    <Prenom>MALAK</Prenom>
+    <DateNaissance>2003-11-12</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>15.37</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>16.39</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.88</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>16.12</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>14.72</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.42</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>14.63</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>16.86</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.74</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>11.84</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>17.26</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.55</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>17.80</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>11.41</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.61</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>13.58</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>16.31</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.95</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>20007042</CodeApogee>
+    <Nom>EL FERCHOUNI</Nom>
+    <Prenom>SOUKAYNA</Prenom>
+    <DateNaissance>2001-09-20</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>12.44</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>13.21</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>12.82</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>13.11</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>10.22</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>11.66</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>19.14</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>17.15</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>18.14</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>11.00</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>17.45</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.22</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>18.51</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>10.26</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.38</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>18.44</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>14.89</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.66</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21010274</CodeApogee>
+    <Nom>EL GARTI</Nom>
+    <Prenom>YASSINE</Prenom>
+    <DateNaissance>2003-05-20</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>16.74</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>11.63</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.18</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>19.25</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>18.04</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>18.64</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>18.97</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>18.65</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>18.81</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>12.49</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>10.53</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>11.51</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>11.56</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>13.46</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>12.51</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>13.83</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>19.59</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.71</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21010319</CodeApogee>
+    <Nom>EL GHAZI</Nom>
+    <Prenom>SILIA</Prenom>
+    <DateNaissance>2003-04-04</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>19.29</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>11.75</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.52</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>11.65</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>15.68</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>13.66</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>15.11</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>14.60</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.86</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>15.36</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>19.90</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.63</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>17.54</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>11.08</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.31</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>16.66</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>10.07</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>13.37</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>19006658</CodeApogee>
+    <Nom>EL HARIRI</Nom>
+    <Prenom>KENZA</Prenom>
+    <DateNaissance>1999-03-23</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>18.89</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>14.08</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.48</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>11.80</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>11.69</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>11.74</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>18.94</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>16.84</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.89</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>19.58</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>17.57</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>18.57</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>10.83</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>15.96</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>13.39</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>16.34</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>15.44</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.89</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21010322</CodeApogee>
+    <Nom>EL HARRAK</Nom>
+    <Prenom>MEHDI</Prenom>
+    <DateNaissance>2003-07-15</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>17.59</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>18.11</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.85</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>12.43</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>10.23</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>11.33</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>12.92</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>19.09</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.00</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>15.68</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>19.88</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.78</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>12.52</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>18.81</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.66</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>15.42</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>15.01</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.21</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>22012491</CodeApogee>
+    <Nom>EL HLLAFI</Nom>
+    <Prenom>BASMA</Prenom>
+    <DateNaissance>2003-08-28</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>13.35</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>18.61</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.98</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>14.28</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>12.75</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>13.52</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>19.24</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>14.31</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.77</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>12.82</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>13.18</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>13.00</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>17.73</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>13.24</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.48</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>15.30</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>11.50</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>13.40</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21010441</CodeApogee>
+    <Nom>EL M RABET</Nom>
+    <Prenom>SAIDA</Prenom>
+    <DateNaissance>2001-05-06</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>16.18</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>12.45</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.31</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>17.04</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>19.85</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>18.45</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>14.86</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>17.52</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.19</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>17.47</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>14.77</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.12</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>12.08</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>19.20</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.64</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>12.04</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>10.09</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>11.06</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21010423</CodeApogee>
+    <Nom>EL MATNI</Nom>
+    <Prenom>ADAM</Prenom>
+    <DateNaissance>2003-09-24</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>15.79</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>14.19</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.99</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>13.68</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>16.15</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.91</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>15.07</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>14.55</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.81</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>15.70</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>14.11</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.90</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>16.82</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>11.24</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.03</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>19.41</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>19.33</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>19.37</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>20007896</CodeApogee>
+    <Nom>EL OUAHABI</Nom>
+    <Prenom>ANASS</Prenom>
+    <DateNaissance>2003-05-26</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>12.63</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>15.08</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>13.86</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>14.25</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>15.39</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.82</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>10.52</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>15.86</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>13.19</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>17.74</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>17.67</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.70</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>13.45</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>11.95</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>12.70</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>12.41</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>16.32</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.37</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>17004026</CodeApogee>
+    <Nom>EL YAZGHI</Nom>
+    <Prenom>MARYEM</Prenom>
+    <DateNaissance>1999-07-20</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>18.41</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>17.70</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>18.05</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>12.27</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>16.69</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.48</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>18.63</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>10.23</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.43</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>11.09</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>16.39</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>13.74</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>17.72</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>10.68</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.20</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>10.23</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>17.33</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>13.78</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21011787</CodeApogee>
+    <Nom>EL- OTMANI</Nom>
+    <Prenom>SARA</Prenom>
+    <DateNaissance>2003-11-27</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>14.88</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>11.04</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>12.96</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>16.28</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>15.84</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.06</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>13.55</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>13.36</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>13.46</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>16.12</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>10.19</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>13.15</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>13.03</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>15.40</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.21</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>12.51</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>19.33</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.92</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21010306</CodeApogee>
+    <Nom>EL-BATTEOUI</Nom>
+    <Prenom>OUSSAMA</Prenom>
+    <DateNaissance>2003-01-03</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>18.77</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>14.15</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.46</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>16.56</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>12.46</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.51</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>17.96</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>14.08</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.02</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>16.90</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>17.81</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.35</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>17.96</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>13.45</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.71</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>15.10</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>16.76</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.93</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>19005680</CodeApogee>
+    <Nom>FAROUK</Nom>
+    <Prenom>ZAKARIA</Prenom>
+    <DateNaissance>2001-09-24</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>13.98</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>12.82</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>13.40</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>19.69</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>15.13</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.41</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>17.24</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>17.30</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.27</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>15.79</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>14.65</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.22</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>14.08</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>16.01</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.04</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>10.57</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>15.11</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>12.84</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21010320</CodeApogee>
+    <Nom>HADAD</Nom>
+    <Prenom>WAIL</Prenom>
+    <DateNaissance>2003-12-03</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>13.17</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>19.16</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.16</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>14.04</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>15.86</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.95</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>19.62</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>14.05</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.84</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>19.21</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>14.84</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.02</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>17.14</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>10.29</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>13.71</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>12.13</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>18.20</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.16</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21010359</CodeApogee>
+    <Nom>HAJOUZ</Nom>
+    <Prenom>RIHAB</Prenom>
+    <DateNaissance>2004-03-16</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>15.60</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>16.74</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.17</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>13.45</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>12.03</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>12.74</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>10.52</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>14.25</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>12.38</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>15.73</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>19.74</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.73</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>18.93</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>13.32</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.12</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>14.33</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>19.63</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.98</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21010334</CodeApogee>
+    <Nom>HILALY</Nom>
+    <Prenom>ANAS</Prenom>
+    <DateNaissance>2003-09-20</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>13.25</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>17.71</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.48</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>16.92</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>14.27</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.60</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>12.49</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>10.68</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>11.59</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>14.84</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>16.37</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.61</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>15.96</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>19.51</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.73</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>10.27</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>11.81</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>11.04</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21010011</CodeApogee>
+    <Nom>IKEN</Nom>
+    <Prenom>HANAE</Prenom>
+    <DateNaissance>2003-03-27</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>10.76</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>14.29</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>12.52</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>19.03</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>13.13</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.08</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>11.51</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>12.47</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>11.99</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>19.11</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>13.88</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.50</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>15.18</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>18.51</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.84</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>15.63</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>18.42</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.02</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21010368</CodeApogee>
+    <Nom>JEBARI HASSANI</Nom>
+    <Prenom>ABDELHAK</Prenom>
+    <DateNaissance>2003-11-24</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>11.81</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>16.87</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.34</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>12.76</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>13.69</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>13.22</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>10.64</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>11.89</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>11.27</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>18.76</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>18.83</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>18.80</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>13.02</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>16.62</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.82</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>14.98</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>18.20</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.59</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>20009973</CodeApogee>
+    <Nom>KABBOUR</Nom>
+    <Prenom>WISSAL</Prenom>
+    <DateNaissance>2002-08-04</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>18.93</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>10.49</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.71</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>18.92</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>11.65</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.29</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>13.45</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>18.89</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.17</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>18.82</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>12.41</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.62</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>18.06</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>17.12</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.59</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>17.79</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>13.73</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.76</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21010231</CodeApogee>
+    <Nom>KEROUAN SALAH</Nom>
+    <Prenom>SOUMAIA</Prenom>
+    <DateNaissance>2003-04-27</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>12.63</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>19.44</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.04</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>15.32</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>14.47</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.89</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>13.82</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>15.78</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.80</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>19.13</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>16.58</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.85</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>12.01</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>16.90</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.45</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>18.64</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>19.71</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>19.18</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21011780</CodeApogee>
+    <Nom>KONTAR</Nom>
+    <Prenom>RIHAM</Prenom>
+    <DateNaissance>2003-11-16</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>12.65</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>19.37</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.01</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>15.81</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>10.84</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>13.32</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>18.86</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>16.02</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.44</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>14.62</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>14.35</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.48</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>17.91</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>10.84</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.38</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>16.19</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>19.35</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.77</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>20000927</CodeApogee>
+    <Nom>KORAICHI</Nom>
+    <Prenom>SALMANE</Prenom>
+    <DateNaissance>2003-04-22</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>11.32</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>15.83</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>13.57</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>11.24</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>10.95</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>11.09</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>16.63</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>17.15</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.89</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>11.97</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>18.18</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.07</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>19.33</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>19.05</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>19.19</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>11.51</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>19.25</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.38</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>20000104</CodeApogee>
+    <Nom>LABJAKH</Nom>
+    <Prenom>SAFAE</Prenom>
+    <DateNaissance>2003-11-11</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>13.21</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>19.20</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.20</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>15.42</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>10.25</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>12.84</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>15.46</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>19.11</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.29</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>13.54</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>19.10</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.32</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>15.81</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>12.15</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>13.98</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>17.00</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>11.64</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.32</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21010740</CodeApogee>
+    <Nom>LIO-EDDINE</Nom>
+    <Prenom>SAMIA</Prenom>
+    <DateNaissance>2003-07-31</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>12.24</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>15.48</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>13.86</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>17.62</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>11.70</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.66</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>19.99</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>12.12</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.05</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>18.85</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>13.45</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.15</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>14.60</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>14.59</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.59</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>17.33</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>13.24</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.29</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21010291</CodeApogee>
+    <Nom>LOUAH</Nom>
+    <Prenom>MOHAMMED</Prenom>
+    <DateNaissance>2003-06-24</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>14.59</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>13.77</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.18</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>14.31</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>13.38</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>13.85</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>15.62</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>18.66</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.14</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>15.34</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>16.59</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.96</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>10.94</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>10.35</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>10.64</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>16.93</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>11.21</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.07</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21011784</CodeApogee>
+    <Nom>NAYA</Nom>
+    <Prenom>TAHA</Prenom>
+    <DateNaissance>2003-11-16</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>19.01</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>12.84</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.93</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>13.26</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>14.46</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>13.86</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>18.85</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>15.10</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.98</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>16.73</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>16.97</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.85</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>17.49</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>12.57</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.03</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>16.10</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>11.98</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.04</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21010332</CodeApogee>
+    <Nom>OULAD MAALEM</Nom>
+    <Prenom>AYOUB</Prenom>
+    <DateNaissance>2003-09-17</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>14.27</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>11.17</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>12.72</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>18.75</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>19.09</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>18.92</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>14.89</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>18.25</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.57</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>16.45</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>15.34</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.89</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>19.37</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>12.09</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.73</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>13.62</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>15.73</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.68</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>20007695</CodeApogee>
+    <Nom>RANBOUK</Nom>
+    <Prenom>LAMIAE</Prenom>
+    <DateNaissance>2002-07-10</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>16.12</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>17.29</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.70</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>12.97</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>15.38</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.18</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>13.90</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>13.50</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>13.70</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>15.33</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>11.56</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>13.45</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>15.09</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>17.54</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.31</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>13.26</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>10.15</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>11.71</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21010401</CodeApogee>
+    <Nom>SAKHRI</Nom>
+    <Prenom>MOHAMED</Prenom>
+    <DateNaissance>2003-06-17</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>18.52</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>16.94</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.73</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>13.40</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>16.30</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.85</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>13.67</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>11.75</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>12.71</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>18.29</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>15.71</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.00</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>16.25</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>19.82</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>18.04</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>16.16</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>10.49</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>13.32</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21009322</CodeApogee>
+    <Nom>SARSRI</Nom>
+    <Prenom>AYMANE</Prenom>
+    <DateNaissance>2002-07-30</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>15.75</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>16.39</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.07</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>15.69</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>19.25</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.47</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>19.70</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>13.08</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.39</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>13.42</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>19.38</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.40</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>11.47</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>19.52</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.49</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>12.99</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>11.38</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>12.19</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21011667</CodeApogee>
+    <Nom>SOUIDAK</Nom>
+    <Prenom>FIRDAOUS</Prenom>
+    <DateNaissance>2003-10-29</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>16.25</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>12.60</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.43</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>14.50</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>14.37</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.43</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>18.06</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>17.04</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.55</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>18.28</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>14.29</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.29</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>14.81</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>15.92</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.37</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>10.71</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>17.02</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>13.87</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21010348</CodeApogee>
+    <Nom>SOULHI</Nom>
+    <Prenom>MALAK</Prenom>
+    <DateNaissance>2003-02-15</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>15.34</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>17.95</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.64</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>16.87</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>17.48</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.18</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>12.31</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>14.34</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>13.32</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>14.02</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>16.43</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.22</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>13.92</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>19.10</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.51</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>13.87</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>11.41</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>12.64</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21010242</CodeApogee>
+    <Nom>STITOU</Nom>
+    <Prenom>ABIR</Prenom>
+    <DateNaissance>2003-08-01</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>10.46</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>15.30</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>12.88</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>16.03</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>19.66</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.84</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>16.76</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>12.88</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.82</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>11.39</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>17.27</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.33</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>12.29</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>18.84</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.56</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>13.67</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>16.62</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.14</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21015477</CodeApogee>
+    <Nom>SYLLA</Nom>
+    <Prenom>NFALY</Prenom>
+    <DateNaissance>2000-01-07</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>17.42</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>19.33</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>18.38</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>15.04</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>12.72</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>13.88</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>18.61</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>12.01</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.31</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>10.53</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>10.63</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>10.58</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>10.94</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>14.11</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>12.52</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>17.71</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>15.48</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.59</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>20001713</CodeApogee>
+    <Nom>TAIBI IMMRANI</Nom>
+    <Prenom>AMAL</Prenom>
+    <DateNaissance>2002-12-25</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>16.12</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>14.29</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.21</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>15.69</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>14.85</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.27</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>19.15</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>18.33</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>18.74</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>17.44</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>15.81</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.62</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>18.81</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>13.15</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.98</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>12.23</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>13.78</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>13.00</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21010255</CodeApogee>
+    <Nom>TAJIDI</Nom>
+    <Prenom>MALIKA</Prenom>
+    <DateNaissance>2003-09-18</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>18.85</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>10.70</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.78</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>14.71</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>15.13</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.92</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>13.95</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>10.25</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>12.10</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>10.99</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>11.54</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>11.27</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>10.65</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>16.63</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>13.64</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>16.71</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>13.54</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.12</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21011615</CodeApogee>
+    <Nom>TAOUIL</Nom>
+    <Prenom>FATIMAEZZAHRAE</Prenom>
+    <DateNaissance>2004-03-29</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>19.57</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>14.69</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.13</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>15.86</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>18.29</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.07</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>16.04</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>19.09</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>17.56</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>19.56</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>10.10</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.83</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>13.11</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>17.25</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.18</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>18.54</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>14.72</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>16.63</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+  <Student>
+    <CodeApogee>21010409</CodeApogee>
+    <Nom>ZAHAR</Nom>
+    <Prenom>KENZA</Prenom>
+    <DateNaissance>2003-09-17</DateNaissance>
+    <Modules>
+      <Module>
+        <Name>Administration et programmation systèmes</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Administration systèmes</Name>
+            <Note>18.03</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Programmation systèmes</Name>
+            <Note>19.49</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>18.76</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Bases de données avancées 1</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Optimisation et Qualité de Base de données</Name>
+            <Note>15.13</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Administration et Sécurité des Bases de données</Name>
+            <Note>15.61</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>15.37</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Langue &amp; communication</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Espagnol 2 &amp; Allemand</Name>
+            <Note>13.07</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Anglais professionnel</Name>
+            <Note>10.04</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>11.55</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Modélisation orientée objet et IHM</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Modélisation orientée objet UML</Name>
+            <Note>11.73</Note>
+          </SubModule>
+          <SubModule>
+            <Name>IHM</Name>
+            <Note>12.41</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>12.07</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Programmation Orientée Objet &amp; XML</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Programmation</Name>
+            <Note>15.25</Note>
+          </SubModule>
+          <SubModule>
+            <Name>XML</Name>
+            <Note>13.34</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>14.29</NoteFinale>
+      </Module>
+      <Module>
+        <Name>Qualité &amp; Approche Processus</Name>
+        <SubModules>
+          <SubModule>
+            <Name>Assurance Qualité</Name>
+            <Note>12.36</Note>
+          </SubModule>
+          <SubModule>
+            <Name>Méthodes Agiles</Name>
+            <Note>14.94</Note>
+          </SubModule>
+        </SubModules>
+        <NoteFinale>13.65</NoteFinale>
+      </Module>
+    </Modules>
+  </Student>
+</Students>

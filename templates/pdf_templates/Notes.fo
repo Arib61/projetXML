@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+                version="1.0"
+                xmlns:fo="http://www.w3.org/1999/XSL/Format">
+    <xsl:output method="xml" indent="yes" />
+
+    <xsl:template match="/Students">
+        <fo:root>
+            <fo:layout-master-set>
+                <fo:simple-page-master master-name="page" page-height="29.7cm" page-width="21cm" margin="2cm">
+                    <fo:region-body margin-top="4cm"/>
+                    <fo:region-before extent="3cm"/>
+                </fo:simple-page-master>
+            </fo:layout-master-set>
+
+            <xsl:for-each select="Student[1]/Modules/Module">
+                <fo:page-sequence master-reference="page">
+                    <!-- Header with logos and text -->
+                    <fo:static-content flow-name="xsl-region-before">
+                        <fo:block>
+                            <fo:table table-layout="fixed" width="100%">
+                                <fo:table-column column-width="20%"/>
+                                <fo:table-column column-width="60%"/>
+                                <fo:table-column column-width="20%"/>
+                                <fo:table-body>
+                                    <fo:table-row>
+                                        <!-- Left Logo (UAE) -->
+                                        <fo:table-cell>
+                                            <fo:block text-align="center">
+                                                <fo:external-graphic src="../../images/logoUae.png" content-width="auto" content-height="2cm"/>
+                                            </fo:block>
+                                        </fo:table-cell>
+                                        
+                                        <!-- Center Text -->
+                                        <fo:table-cell>
+                                            <fo:block text-align="center" font-size="12pt" font-weight="bold">
+                                                Université Abdelmalek Essaâdi<br/>
+                                                École Nationale des Sciences Appliquées<br/>
+                                                Tanger
+                                            </fo:block>
+                                        </fo:table-cell>
+
+                                        <!-- Right Logo (ENSAT) -->
+                                        <fo:table-cell>
+                                            <fo:block text-align="center">
+                                                <fo:external-graphic src="../../images/ensat.png" content-width="auto" content-height="2cm"/>
+                                            </fo:block>
+                                        </fo:table-cell>
+                                    </fo:table-row>
+                                </fo:table-body>
+                            </fo:table>
+                        </fo:block>
+                    </fo:static-content>
+                    <fo:flow flow-name="xsl-region-body">
+                        <fo:block font-size="14pt" font-weight="bold" text-align="center" margin-bottom="10pt">
+                            <xsl:text>Module : </xsl:text>
+                            <xsl:value-of select="Name" />
+                        </fo:block>
+
+                        <xsl:variable name="moduleName" select="Name" />
+                        <xsl:variable name="submoduleCount" select="count(SubModules/SubModule)" />
+
+                        <fo:table table-layout="fixed" width="100%" border="0.5pt solid black" margin-bottom="10pt">
+                            <fo:table-column column-width="8%"/> 
+                            <fo:table-column column-width="12%"/> 
+                            <fo:table-column column-width="12%"/> 
+                            <xsl:for-each select="SubModules/SubModule">
+                                <fo:table-column column-width="15%"/> 
+                            </xsl:for-each>
+                            <fo:table-column column-width="10%"/> 
+
+                            <fo:table-header>
+                                <fo:table-row background-color="#f4f4f4">
+                                    <fo:table-cell border="0.5pt solid black">
+                                        <fo:block font-weight="bold" font-size="9pt" text-align="center">Code Apogée</fo:block>
+                                    </fo:table-cell>
+                                    <fo:table-cell border="0.5pt solid black">
+                                        <fo:block font-weight="bold" font-size="9pt" text-align="center">Nom</fo:block>
+                                    </fo:table-cell>
+                                    <fo:table-cell border="0.5pt solid black">
+                                        <fo:block font-weight="bold" font-size="9pt" text-align="center">Prénom</fo:block>
+                                    </fo:table-cell>
+                                    <xsl:for-each select="SubModules/SubModule">
+                                        <fo:table-cell border="0.5pt solid black">
+                                            <fo:block font-weight="bold" font-size="9pt" text-align="center">
+                                                <xsl:value-of select="Name" />
+                                            </fo:block>
+                                        </fo:table-cell>
+                                    </xsl:for-each>
+                                    <fo:table-cell border="0.5pt solid black">
+                                        <fo:block font-weight="bold" font-size="9pt" text-align="center">Note Finale</fo:block>
+                                    </fo:table-cell>
+                                </fo:table-row>
+                            </fo:table-header>
+
+                            <fo:table-body>
+                                <xsl:for-each select="/Students/Student">
+                                    <xsl:variable name="currentModule" select="Modules/Module[Name=$moduleName]" />
+                                    <fo:table-row>
+                                        <fo:table-cell border="0.5pt solid black">
+                                            <fo:block font-size="8pt" text-align="center">
+                                                <xsl:value-of select="CodeApogee" />
+                                            </fo:block>
+                                        </fo:table-cell>
+                                        <fo:table-cell border="0.5pt solid black">
+                                            <fo:block font-size="8pt" text-align="center">
+                                                <xsl:value-of select="Nom" />
+                                            </fo:block>
+                                        </fo:table-cell>
+                                        <fo:table-cell border="0.5pt solid black">
+                                            <fo:block font-size="8pt" text-align="center">
+                                                <xsl:value-of select="Prenom" />
+                                            </fo:block>
+                                        </fo:table-cell>
+                                        
+                                        <xsl:for-each select="$currentModule/SubModules/SubModule">
+                                            <fo:table-cell border="0.5pt solid black">
+                                                <fo:block font-size="8pt" text-align="center">
+                                                    <xsl:value-of select="Note" />
+                                                </fo:block>
+                                            </fo:table-cell>
+                                        </xsl:for-each>
+
+                                        <xsl:variable name="studentSubmoduleCount" select="count($currentModule/SubModules/SubModule)" />
+                                        <xsl:if test="$studentSubmoduleCount &lt; $submoduleCount">
+                                            <xsl:call-template name="loopEmptyCells">
+                                                <xsl:with-param name="count" select="$submoduleCount - $studentSubmoduleCount"/>
+                                            </xsl:call-template>
+                                        </xsl:if>
+
+                                        <fo:table-cell border="0.5pt solid black">
+                                            <fo:block font-size="8pt" text-align="center" font-weight="bold">
+                                                <xsl:attribute name="color">
+                                                    <xsl:choose>
+                                                        <xsl:when test="$currentModule/NoteFinale &lt; 8">red</xsl:when>
+                                                        <xsl:when test="$currentModule/NoteFinale &gt;= 8 and $currentModule/NoteFinale &lt; 12">orange</xsl:when>
+                                                        <xsl:otherwise>green</xsl:otherwise>
+                                                    </xsl:choose>
+                                                </xsl:attribute>
+                                                <xsl:value-of select="$currentModule/NoteFinale" />
+                                            </fo:block>
+                                        </fo:table-cell>
+                                    </fo:table-row>
+                                </xsl:for-each>
+                            </fo:table-body>
+                        </fo:table>
+                    </fo:flow>
+                </fo:page-sequence>
+            </xsl:for-each>
+        </fo:root>
+    </xsl:template>
+
+  <xsl:template name="loopEmptyCells">
+    <xsl:param name="count"/>
+    <!-- Assurez-vous que $count est strictement positif -->
+    <xsl:if test="$count > 0">
+        <fo:table-cell border="0.5pt solid black">
+            <fo:block font-size="7pt" text-align="center">-</fo:block>
+        </fo:table-cell>
+        <!-- Réduisez $count et appelez la fonction récursive -->
+        <xsl:call-template name="loopEmptyCells">
+            <xsl:with-param name="count" select="$count - 1" />
+        </xsl:call-template>
+    </xsl:if>
+</xsl:template>
+
+</xsl:stylesheet>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet version="2.0"
+    xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+    xmlns:fo="http://www.w3.org/1999/XSL/Format">
+
+    <xsl:template match="/">
+        <fo:root>
+            <!-- Page Layout -->
+            <fo:layout-master-set>
+                <fo:simple-page-master master-name="A4" page-width="210mm" page-height="297mm" margin="1cm">
+                    <fo:region-body margin="3cm"/>
+                    <fo:region-before extent="3cm"/>
+                    <fo:region-after extent="2cm"/>
+                </fo:simple-page-master>
+            </fo:layout-master-set>
+
+            <fo:page-sequence master-reference="A4">
+                <fo:static-content flow-name="xsl-region-before">
+                    <fo:block-container>
+                        <fo:table table-layout="fixed" width="100%">
+                            <fo:table-column column-width="33%"/>
+                            <fo:table-column column-width="34%"/>
+                            <fo:table-column column-width="33%"/>
+                            <fo:table-body>
+                                <fo:table-row>
+                                    <!-- Left Logo -->
+                                    <fo:table-cell>
+                                        <fo:block text-align="center">
+                                            <fo:external-graphic src="../../images/logoUae.png" content-width="auto" content-height="2cm"/>
+                                        </fo:block>
+                                    </fo:table-cell>
+
+                                    <!-- Title -->
+                                    <fo:table-cell>
+                                        <fo:block text-align="center" font-size="12pt" font-weight="bold">
+                                            Université Abdelmalek Essaâdi<br/>
+                                            Ecole Nationale des Sciences Appliquées<br/>
+                                            Tanger
+                                        </fo:block>
+                                    </fo:table-cell>
+
+                                    <!-- Right Logo -->
+                                    <fo:table-cell>
+                                        <fo:block text-align="center">
+                                            <fo:external-graphic src="../../images/ensat.png" content-width="auto" content-height="2cm"/>
+                                        </fo:block>
+                                    </fo:table-cell>
+                                </fo:table-row>
+                            </fo:table-body>
+                        </fo:table>
+                    </fo:block-container>
+                </fo:static-content>
+
+                <fo:flow flow-name="xsl-region-body">
+                    <xsl:for-each select="/Students/Student">
+                        <!-- Title -->
+                        <fo:block font-size="16pt" font-weight="bold" text-align="center" margin-bottom="10pt">
+                            RELEVÉ DE NOTES ET RÉSULTATS
+                        </fo:block>
+
+                        <!-- Student Details -->
+                        <fo:block font-size="12pt">
+                            <fo:inline font-weight="bold">Nom et Prénom :</fo:inline> 
+                            <xsl:value-of select="concat(Nom, ' ', Prenom)"/>
+                        </fo:block>
+                        <fo:block font-size="12pt">
+                            <fo:inline font-weight="bold">Code Apogée :</fo:inline> 
+                            <xsl:value-of select="CodeApogee"/>
+                        </fo:block>
+
+                        <!-- Modules Table -->
+                        <fo:table table-layout="fixed" width="100%" border-collapse="separate" border-spacing="2pt">
+                            <fo:table-column column-width="75%"/>
+                            <fo:table-column column-width="25%"/>
+                            <fo:table-body>
+                                <xsl:for-each select="Modules/Module">
+                                    <!-- Module Header -->
+                                    <fo:table-row background-color="lightblue">
+                                        <fo:table-cell>
+                                            <fo:block font-weight="bold">
+                                                <xsl:value-of select="Name"/>
+                                            </fo:block>
+                                        </fo:table-cell>
+                                        <fo:table-cell>
+                                            <fo:block/>
+                                        </fo:table-cell>
+                                    </fo:table-row>
+
+                                    <!-- Sub-Modules -->
+                                    <xsl:for-each select="SubModules/SubModule">
+                                        <fo:table-row>
+                                            <fo:table-cell>
+                                                <fo:block text-align="left" margin-left="1cm">
+                                                    <xsl:value-of select="Name"/>
+                                                </fo:block>
+                                            </fo:table-cell>
+                                            <fo:table-cell>
+                                                <fo:block text-align="right">
+                                                    <xsl:value-of select="Note"/> / 20
+                                                </fo:block>
+                                            </fo:table-cell>
+                                        </fo:table-row>
+                                    </xsl:for-each>
+
+                                    <!-- Final Grade -->
+                                    <fo:table-row background-color="lightgray">
+                                        <fo:table-cell>
+                                            <fo:block font-weight="bold" text-align="right">Note Finale :</fo:block>
+                                        </fo:table-cell>
+                                        <fo:table-cell>
+                                            <fo:block text-align="right" font-weight="bold">
+                                                <xsl:value-of select="NoteFinale"/> / 20
+                                            </fo:block>
+                                        </fo:table-cell>
+                                    </fo:table-row>
+                                </xsl:for-each>
+
+                                <!-- Average Grade Row -->
+                                <fo:table-row background-color="#e0e0e0">
+                                    <fo:table-cell>
+                                        <fo:block font-weight="bold" text-align="right">Moyenne Générale :</fo:block>
+                                    </fo:table-cell>
+                                    <fo:table-cell>
+                                        <fo:block text-align="right" font-weight="bold">
+                                            <xsl:value-of select="format-number(sum(Modules/Module/NoteFinale) div count(Modules/Module/NoteFinale), '0.00')"/> / 20
+                                        </fo:block>
+                                    </fo:table-cell>
+                                </fo:table-row>
+                            </fo:table-body>
+                        </fo:table>
+
+                        <!-- Page Break After Each Student -->
+                        <xsl:if test="position() != last()">
+                            <fo:block break-after="page"/>
+                        </xsl:if>
+                    </xsl:for-each>
+                </fo:flow>
+            </fo:page-sequence>
+        </fo:root>
+    </xsl:template>
+</xsl:stylesheet>

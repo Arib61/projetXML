@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+                xmlns:fo="http://www.w3.org/1999/XSL/Format"
+                version="1.0">
+    <xsl:output method="xml" indent="yes"/>
+    
+    <!-- Key definition for modules with NoteFinale < 12 -->
+    <xsl:key name="modules-ratt" match="Module[number(NoteFinale) &lt; 12]" use="Name"/>
+
+    <xsl:template match="/">
+        <fo:root>
+            <!-- Page Layout -->
+            <fo:layout-master-set>
+                <fo:simple-page-master master-name="A4" 
+                    page-width="210mm" 
+                    page-height="297mm" 
+                    margin="1cm">
+                    <fo:region-body margin-top="3cm"/>
+                    <fo:region-before extent="3cm"/>
+                    <fo:region-after extent="2cm"/>
+                </fo:simple-page-master>
+            </fo:layout-master-set>
+
+            <fo:page-sequence master-reference="A4">
+                <!-- Header (same as provided) -->
+                <fo:static-content flow-name="xsl-region-before">
+                    <fo:block-container>
+                        <fo:table table-layout="fixed" width="100%">
+                            <fo:table-column column-width="33%"/>
+                            <fo:table-column column-width="34%"/>
+                            <fo:table-column column-width="33%"/>
+                            <fo:table-body>
+                                <fo:table-row>
+                                    <fo:table-cell>
+                                        <fo:block text-align="center">
+                                            <fo:external-graphic src="../../images/logoUae.png" 
+                                                content-width="auto" 
+                                                content-height="2cm"/>
+                                        </fo:block>
+                                    </fo:table-cell>
+                                    <fo:table-cell>
+                                        <fo:block text-align="center" 
+                                            font-size="12pt" 
+                                            font-weight="bold"
+                                            space-after="5mm">
+                                            Université Abdelmalek Essaâdi<br/>
+                                            Ecole Nationale des Sciences Appliquées<br/>
+                                            Tanger
+                                        </fo:block>
+                                    </fo:table-cell>
+                                    <fo:table-cell>
+                                        <fo:block text-align="center">
+                                            <fo:external-graphic src="../../images/ensat.png" 
+                                                content-width="auto" 
+                                                content-height="2cm"/>
+                                        </fo:block>
+                                    </fo:table-cell>
+                                </fo:table-row>
+                            </fo:table-body>
+                        </fo:table>
+                    </fo:block-container>
+                </fo:static-content>
+
+                <!-- Main Content -->
+                <fo:flow flow-name="xsl-region-body">
+                    <xsl:choose>
+                        <!-- Check if any modules have students with NoteFinale < 12 -->
+                        <xsl:when test="Students/Student/Modules/Module[number(NoteFinale) &lt; 12]">
+                            <!-- Process unique modules with qualifying students -->
+                            <xsl:for-each select="Students/Student/Modules/Module[
+                                generate-id() = generate-id(key('modules-ratt', Name)[1])
+                            ]">
+                                <fo:block font-size="14pt" 
+                                    font-weight="bold" 
+                                    margin-top="10pt" 
+                                    margin-bottom="5pt"
+                                    border-bottom="1pt solid black">
+                                    Liste de rattrapage: <xsl:value-of select="Name"/>
+                                </fo:block>
+
+                                <fo:table table-layout="fixed" width="100%">
+                                    <fo:table-column column-width="20%"/>
+                                    <fo:table-column column-width="30%"/>
+                                    <fo:table-column column-width="30%"/>
+                                    <fo:table-column column-width="20%"/>
+                                    <fo:table-header>
+                                        <fo:table-row>
+                                            <fo:table-cell background-color="#f2f2f2" border="0.5pt solid black">
+                                                <fo:block font-weight="bold" text-align="center">Code Apogée</fo:block>
+                                            </fo:table-cell>
+                                            <fo:table-cell background-color="#f2f2f2" border="0.5pt solid black">
+                                                <fo:block font-weight="bold" text-align="center">Nom</fo:block>
+                                            </fo:table-cell>
+                                            <fo:table-cell background-color="#f2f2f2" border="0.5pt solid black">
+                                                <fo:block font-weight="bold" text-align="center">Prénom</fo:block>
+                                            </fo:table-cell>
+                                            <fo:table-cell background-color="#f2f2f2" border="0.5pt solid black">
+                                                <fo:block font-weight="bold" text-align="center">Note Finale</fo:block>
+                                            </fo:table-cell>
+                                        </fo:table-row>
+                                    </fo:table-header>
+
+                                    <fo:table-body>
+                                        <!-- Get students for this module with NoteFinale < 12 -->
+                                        <xsl:variable name="students" select="key('modules-ratt', current()/Name)"/>
+                                        <xsl:choose>
+                                            <xsl:when test="$students">
+                                                <xsl:for-each select="$students">
+                                                    <xsl:sort select="../../Nom"/>
+                                                    <xsl:sort select="../../Prenom"/>
+                                                    <fo:table-row>
+                                                        <fo:table-cell border="0.5pt solid black">
+                                                            <fo:block text-align="center">
+                                                                <xsl:value-of select="../../CodeApogee"/>
+                                                            </fo:block>
+                                                        </fo:table-cell>
+                                                        <fo:table-cell border="0.5pt solid black">
+                                                            <fo:block text-align="center">
+                                                                <xsl:value-of select="../../Nom"/>
+                                                            </fo:block>
+                                                        </fo:table-cell>
+                                                        <fo:table-cell border="0.5pt solid black">
+                                                            <fo:block text-align="center">
+                                                                <xsl:value-of select="../../Prenom"/>
+                                                            </fo:block>
+                                                        </fo:table-cell>
+                                                        <fo:table-cell border="0.5pt solid black">
+                                                            <fo:block text-align="center">
+                                                                <xsl:value-of select="NoteFinale"/>
+                                                            </fo:block>
+                                                        </fo:table-cell>
+                                                    </fo:table-row>
+                                                </xsl:for-each>
+                                            </xsl:when>
+                                            <xsl:otherwise>
+                                                <!-- Should never trigger due to initial check -->
+                                                <fo:table-row>
+                                                    <fo:table-cell number-columns-spanned="4">
+                                                        <fo:block text-align="center">Aucun étudiant éligible</fo:block>
+                                                    </fo:table-cell>
+                                                </fo:table-row>
+                                            </xsl:otherwise>
+                                        </xsl:choose>
+                                    </fo:table-body>
+                                </fo:table>
+                                <fo:block space-after="15mm"/>
+                            </xsl:for-each>
+                        </xsl:when>
+                        <xsl:otherwise>
+                            <fo:block font-size="14pt" 
+                                font-weight="bold" 
+                                color="red" 
+                                text-align="center" 
+                                margin-top="10pt">
+                                Aucun étudiant éligible pour les rattrapages.
+                            </fo:block>
+                        </xsl:otherwise>
+                    </xsl:choose>
+                </fo:flow>
+            </fo:page-sequence>
+        </fo:root>
+    </xsl:template>
+</xsl:stylesheet>

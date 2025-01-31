@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<card xmlns="http://studentcard.org">
+    <logoUae uri="../../images/logoUae.png"/>
+    <nameUae>Université Abdelmalek Essaâdi</nameUae>
+    <nameSchool>Ecole Nationale des Sciences Appliquées </nameSchool>
+    <villeSchool>Tanger</villeSchool>
+    <logoEnsa uri="../../images/ensat.png"/>
+    <title>CARTE D'ETUDIANT</title>
+    <lastName>ABOU-EL KASEM</lastName>
+    <firstName>Kenza</firstName>
+    <codeApoge>21011326</codeApoge>
+    <photo uri="../../images/photoEtudiante.jpg"/>
+    <scanBar uri="../../images/scanbar.png"/>
+    <footer>Première Inscription : 2021 / 2022</footer>
+</card>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+    <xsl:output method="xml" indent="yes" />
+
+    <!-- Template match for the root element -->
+    <xsl:template match="/Students">
+        <fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format">
+            <!-- Page Layout -->
+            <fo:layout-master-set>
+                <fo:simple-page-master master-name="A4" page-width="210mm" page-height="297mm" margin="1cm">
+                    <fo:region-body margin-top="3cm"/> <!-- Space below the header -->
+                    <fo:region-before extent="3cm"/> <!-- Space reserved for the header -->
+                    <fo:region-after extent="2cm"/> <!-- Space reserved for the footer -->
+                </fo:simple-page-master>
+            </fo:layout-master-set>
+
+            <fo:page-sequence master-reference="A4">
+                <!-- Header -->
+                <fo:static-content flow-name="xsl-region-before">
+                    <fo:block-container>
+                        <fo:table table-layout="fixed" width="100%">
+                            <fo:table-column column-width="33%"/>
+                            <fo:table-column column-width="34%"/>
+                            <fo:table-column column-width="33%"/>
+                            <fo:table-body>
+                                <fo:table-row>
+                                    <!-- Left Logo -->
+                                    <fo:table-cell>
+                                        <fo:block text-align="center">
+                                            <fo:external-graphic src="../../images/logoUae.png" content-width="auto" content-height="2cm"/>
+                                        </fo:block>
+                                    </fo:table-cell>
+
+                                    <!-- Title -->
+                                    <fo:table-cell>
+                                        <fo:block text-align="center" font-size="12pt" font-weight="bold">
+                                            Université Abdelmalek Essaâdi<br/>
+                                            Ecole Nationale des Sciences Appliquées<br/>
+                                            Tanger
+                                        </fo:block>
+                                    </fo:table-cell>
+
+                                    <!-- Right Logo -->
+                                    <fo:table-cell>
+                                        <fo:block text-align="center">
+                                            <fo:external-graphic src="../../images/ensat.png" content-width="auto" content-height="2cm"/>
+                                        </fo:block>
+                                    </fo:table-cell>
+                                </fo:table-row>
+                            </fo:table-body>
+                        </fo:table>
+                    </fo:block-container>
+                </fo:static-content>
+                <fo:flow flow-name="xsl-region-body">
+
+                    <!-- Titre principal -->
+                    <fo:block font-size="16pt" font-weight="bold" text-align="center" margin-bottom="20pt">
+                        Liste des Étudiants
+                    </fo:block>
+
+                    <!-- Tableau -->
+                    <fo:table table-layout="fixed" width="100%" border="0.5pt solid black">
+                        <!-- Colonnes dynamiques -->
+                        <fo:table-column column-width="10%"/> <!-- Code Apogée -->
+                        <fo:table-column column-width="10%"/> <!-- CIN -->
+                        <fo:table-column column-width="12%"/> <!-- CNE -->
+                        <fo:table-column column-width="18%"/> <!-- Nom -->
+                        <fo:table-column column-width="15%"/> <!-- Prénom -->
+                        <fo:table-column column-width="20%"/> <!-- Lieu de Naissance -->
+                        <fo:table-column column-width="15%"/> <!-- Date de Naissance -->
+
+                        <!-- En-tête du tableau -->
+                        <fo:table-header>
+                            <fo:table-row background-color="#f4f4f4">
+                                <fo:table-cell border="0.5pt solid black">
+                                    <fo:block font-size="10pt" font-weight="bold" text-align="center">Code Apogée</fo:block>
+                                </fo:table-cell>
+                                <fo:table-cell border="0.5pt solid black">
+                                    <fo:block font-size="10pt" font-weight="bold" text-align="center">CIN</fo:block>
+                                </fo:table-cell>
+                                <fo:table-cell border="0.5pt solid black">
+                                    <fo:block font-size="10pt" font-weight="bold" text-align="center">CNE</fo:block>
+                                </fo:table-cell>
+                                <fo:table-cell border="0.5pt solid black">
+                                    <fo:block font-size="10pt" font-weight="bold" text-align="center">Nom</fo:block>
+                                </fo:table-cell>
+                                <fo:table-cell border="0.5pt solid black">
+                                    <fo:block font-size="10pt" font-weight="bold" text-align="center">Prénom</fo:block>
+                                </fo:table-cell>
+                                <fo:table-cell border="0.5pt solid black">
+                                    <fo:block font-size="10pt" font-weight="bold" text-align="center">Lieu de Naissance</fo:block>
+                                </fo:table-cell>
+                                <fo:table-cell border="0.5pt solid black">
+                                    <fo:block font-size="10pt" font-weight="bold" text-align="center">Date de Naissance</fo:block>
+                                </fo:table-cell>
+                            </fo:table-row>
+                        </fo:table-header>
+
+                        <!-- Corps du tableau -->
+                        <fo:table-body>
+                            <xsl:for-each select="Student">
+                                <fo:table-row>
+                                    <fo:table-cell border="0.5pt solid black">
+                                        <fo:block font-size="9pt" wrap-option="wrap"><xsl:value-of select="CodeApogee"/></fo:block>
+                                    </fo:table-cell>
+                                    <fo:table-cell border="0.5pt solid black">
+                                        <fo:block font-size="9pt" wrap-option="wrap"><xsl:value-of select="CIN"/></fo:block>
+                                    </fo:table-cell>
+                                    <fo:table-cell border="0.5pt solid black">
+                                        <fo:block font-size="9pt" wrap-option="wrap"><xsl:value-of select="CNE"/></fo:block>
+                                    </fo:table-cell>
+                                    <fo:table-cell border="0.5pt solid black">
+                                        <fo:block font-size="9pt" wrap-option="wrap"><xsl:value-of select="Nom"/></fo:block>
+                                    </fo:table-cell>
+                                    <fo:table-cell border="0.5pt solid black">
+                                        <fo:block font-size="9pt" wrap-option="wrap"><xsl:value-of select="Prenom"/></fo:block>
+                                    </fo:table-cell>
+                                    <fo:table-cell border="0.5pt solid black">
+                                        <fo:block font-size="9pt" wrap-option="wrap"><xsl:value-of select="LieuNaissance"/></fo:block>
+                                    </fo:table-cell>
+                                    <fo:table-cell border="0.5pt solid black">
+                                        <fo:block font-size="9pt" wrap-option="wrap"><xsl:value-of select="DateNaissance"/></fo:block>
+                                    </fo:table-cell>
+                                </fo:table-row>
+                            </xsl:for-each>
+                        </fo:table-body>
+                    </fo:table>
+
+                </fo:flow>
+            </fo:page-sequence>
+        </fo:root>
+    </xsl:template>
+</xsl:stylesheet>

@@ -1,0 +1,9 @@
+<!ELEMENT Students (Student+)>
+<!ELEMENT Student (CodeApogee, CIN, CNE, Nom, Prenom, LieuNaissance, DateNaissance)>
+<!ELEMENT CodeApogee (#PCDATA)>
+<!ELEMENT CIN (#PCDATA)>
+<!ELEMENT CNE (#PCDATA)>
+<!ELEMENT Nom (#PCDATA)>
+<!ELEMENT Prenom (#PCDATA)>
+<!ELEMENT LieuNaissance (#PCDATA)>
+<!ELEMENT DateNaissance (#PCDATA)>

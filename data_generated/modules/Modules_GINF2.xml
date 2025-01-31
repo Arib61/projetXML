@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Modules>
+  <Module>
+    <ModuleID>GINF31</ModuleID>
+    <ModuleName>Programmation Orientée Objet &amp; XML</ModuleName>
+    <ElementName1>Programmation Orientée Objet : Java</ElementName1>
+    <ElementName2>XML</ElementName2>
+    <Dept_Attachement>Informatique</Dept_Attachement>
+  </Module>
+  <Module>
+    <ModuleID>GINF32</ModuleID>
+    <ModuleName>Qualité &amp; approche processus</ModuleName>
+    <ElementName1>Assurance contrôle qualité (ISO 9001)</ElementName1>
+    <ElementName2>Cycle de Vie Logiciel et Méthodes Agiles</ElementName2>
+    <Dept_Attachement>Informatique</Dept_Attachement>
+  </Module>
+  <Module>
+    <ModuleID>GINF33</ModuleID>
+    <ModuleName>Modélisation orientée objet et IHM</ModuleName>
+    <ElementName1>Modélisation orientée objet UML</ElementName1>
+    <ElementName2>IHM</ElementName2>
+    <Dept_Attachement>Informatique</Dept_Attachement>
+  </Module>
+  <Module>
+    <ModuleID>GINF34</ModuleID>
+    <ModuleName>Bases de données avancées 1</ModuleName>
+    <ElementName1>Optimisation et Qualité de Base de données</ElementName1>
+    <ElementName2>Administration et Sécurité des Bases de données</ElementName2>
+    <Dept_Attachement>Informatique</Dept_Attachement>
+  </Module>
+  <Module>
+    <ModuleID>GINF35</ModuleID>
+    <ModuleName>Administration et programmation systèmes</ModuleName>
+    <ElementName1>Administration systèmes</ElementName1>
+    <ElementName2>Programmation systèmes</ElementName2>
+    <Dept_Attachement>Informatique</Dept_Attachement>
+  </Module>
+  <Module>
+    <ModuleID>GINF36</ModuleID>
+    <ModuleName>Langue &amp; communication</ModuleName>
+    <ElementName1>Espagnol 2 &amp; Allemand</ElementName1>
+    <ElementName2>Anglais professionnel</ElementName2>
+    <Dept_Attachement>Langues et Communication</Dept_Attachement>
+  </Module>
+  <Module>
+    <ModuleID>GINF41</ModuleID>
+    <ModuleName>Technologies distribuées</ModuleName>
+    <ElementName1>Introduction à J2EE</ElementName1>
+    <ElementName2>Programmation en C#</ElementName2>
+    <Dept_Attachement>Informatique</Dept_Attachement>
+  </Module>
+  <Module>
+    <ModuleID>GINF42</ModuleID>
+    <ModuleName>Basesnde données avancées 2 &amp; Cloud</ModuleName>
+    <ElementName1>Gestion des données complexes</ElementName1>
+    <ElementName2>Cloud Computing &amp; Infogérance</ElementName2>
+    <Dept_Attachement>Informatique</Dept_Attachement>
+  </Module>
+  <Module>
+    <ModuleID>GINF43</ModuleID>
+    <ModuleName>Traitement de l'image</ModuleName>
+    <ElementName1>Traitement de l'image</ElementName1>
+    <ElementName2>Vision numérique</ElementName2>
+    <Dept_Attachement>Informatique</Dept_Attachement>
+  </Module>
+  <Module>
+    <ModuleID>GINF44</ModuleID>
+    <ModuleName>Programat déclarative et Techniques algorithmiques Avancées</ModuleName>
+    <ElementName1>Programmation déclarative</ElementName1>
+    <ElementName2>Technique algorithmique avancée</ElementName2>
+    <Dept_Attachement>Informatique</Dept_Attachement>
+  </Module>
+  <Module>
+    <ModuleID>GINF45</ModuleID>
+    <ModuleName>Sécurité &amp; cryptographie</ModuleName>
+    <ElementName1>Sécurité des systemes</ElementName1>
+    <ElementName2>Cryptographie</ElementName2>
+    <Dept_Attachement>Informatique</Dept_Attachement>
+  </Module>
+  <Module>
+    <ModuleID>GINF46</ModuleID>
+    <ModuleName>Management de l'entreprise 2</ModuleName>
+    <ElementName1>Management de Projet</ElementName1>
+    <ElementName2>Projet collectif &amp; stage</ElementName2>
+    <Dept_Attachement>Management</Dept_Attachement>
+  </Module>
+</Modules>

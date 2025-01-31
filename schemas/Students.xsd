@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Students">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Student" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CodeApogee" type="xs:string"/>
+              <xs:element name="CIN" type="xs:string"/>
+              <xs:element name="CNE" type="xs:string"/>
+              <xs:element name="Nom" type="xs:string"/>
+              <xs:element name="Prenom" type="xs:string"/>
+              <xs:element name="LieuNaissance" type="xs:string"/>
+              <xs:element name="DateNaissance" type="xs:date"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
