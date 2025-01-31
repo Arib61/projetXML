@@ -38,7 +38,7 @@
 <div class="header" style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 3cm;">
                     <!-- Left Logo -->
                     <div style="flex: 1; text-align: center;">
-                        <img src="http://127.0.0.1:5000/static/images/logo_uae.png" style="height: 2cm;" alt="Logo UAE"/>
+                        <img src="https://projetxml-production.up.railway.app/static/images/logo_uae.png" style="height: 2cm;" alt="Logo UAE"/>
                     </div>
 
                     <!-- Center Text -->
@@ -50,7 +50,7 @@
 
                     <!-- Right Logo -->
                     <div style="flex: 1; text-align: center;">
-                        <img src="http://127.0.0.1:5000/static/images/logo_ensa.png" style="height: 2cm;" alt="Logo ENSAT"/>
+                        <img src="https://projetxml-production.up.railway.app/static/images/logo_ensa.png" style="height: 2cm;" alt="Logo ENSAT"/>
                     </div>
                 </div>
                 <h1>Liste des Modules</h1>
