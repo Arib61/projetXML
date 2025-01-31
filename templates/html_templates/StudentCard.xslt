@@ -164,7 +164,7 @@
 
                         <!-- Student Photo -->
                         <div class="student-photo-container">
-                            <img class="student-photo" src="{b:photo/@uri}" alt="Student Photo"/>
+                            <img class="student-photo" src="https://projetxml-production.up.railway.app/static/images/photoEtudiante.jpg" alt="Student Photo"/>
                         </div>
 
                         <!-- Student Information -->
@@ -177,7 +177,7 @@
 
                         <!-- Barcode -->
                         <div class="barcode-container">
-                            <img class="barcode" src="{b:scanBar/@uri}" alt="Barcode"/>
+                            <img class="barcode" src="https://projetxml-production.up.railway.app/static/images/scanbar.png" alt="Barcode"/>
                         </div>
 
                         <!-- Footer -->
