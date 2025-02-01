@@ -43,7 +43,7 @@ st.markdown("""
         }
 
         .sub-title {
-            font-size: 26px;
+            font-size: 40px;
             font-weight: 700;
             text-align: center;
             color: #E65100; /* Orange foncé pour un bon contraste */
