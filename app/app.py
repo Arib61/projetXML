@@ -254,8 +254,8 @@ html_files = {
 html_keys = list(html_files.keys())
 
 # Affichage en groupes de 3 boutons par ligne
-for i in range(0, len(html_keys), 3):
-    row_keys = html_keys[i:i+3]
+for i in range(0, len(html_keys), 4):
+    row_keys = html_keys[i:i+4]
     # Création de 3 colonnes
     cols = st.columns(len(row_keys))
     for col, key in zip(cols, row_keys):
