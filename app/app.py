@@ -182,7 +182,7 @@ for key, default_path in default_files.items():
     # 📎 Ajouter un lien de téléchargement SEULEMENT si "Utiliser par défaut" a été cliqué
     if st.session_state.default_used[key]:
         default_filename = os.path.basename(default_path)
-        st.markdown(f"[📥 Télécharger {key.capitalize()} par défaut]({FLASK_BASE_URL}/default-excel/{default_filename})", unsafe_allow_html=True)
+        st.markdown(f"[📥 Télécharger {key.capitalize()} XML]({FLASK_BASE_URL}/convert/{key})", unsafe_allow_html=True)
 
 # 📥 Conversion en XML en prenant en compte les fichiers sélectionnés ou par défaut
 if st.button("📤 Convertir les fichiers en XML"):
