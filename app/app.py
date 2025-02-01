@@ -12,7 +12,7 @@ st.set_page_config(
     layout="wide"  # Utilisation de toute la largeur
 )
 
-FLASK_BASE_URL = "https://projetxml-production.up.railway.app"
+FLASK_BASE_URL = "http://127.0.0.1:5000"
 
 # ==========================
 # 2) CSS personnalisé
