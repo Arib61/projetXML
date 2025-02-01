@@ -21,15 +21,16 @@ st.markdown("""
     <style>
         /* ---- Couleur de fond de la page ---- */
         body {
-            background-color: #1E1E1E;
+            background-color: #F5F5F5; /* Fond clair */
         }
 
-        /* ---- Conteneur principal (un peu plus large) ---- */
+        /* ---- Conteneur principal (plus large et blanc) ---- */
         .main .block-container {
             max-width: 1200px;
             padding: 2rem 2rem;
-            background-color: #2C2C2C; /* Pour mieux distinguer la zone de contenu */
+            background-color: #FFFFFF; /* Conteneur blanc */
             border-radius: 12px;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Légère ombre pour le relief */
         }
 
         /* ---- Titres ---- */
@@ -37,7 +38,7 @@ st.markdown("""
             font-size: 36px;
             font-weight: 800;
             text-align: center;
-            color: #FFFFFF;
+            color: #000000; /* Texte noir */
             margin-bottom: 0;
         }
 
@@ -45,7 +46,7 @@ st.markdown("""
             font-size: 26px;
             font-weight: 700;
             text-align: center;
-            color: #FFA500;
+            color: #E65100; /* Orange foncé pour un bon contraste */
             margin-bottom: 30px;
             margin-top: 40px;
         }
@@ -54,48 +55,51 @@ st.markdown("""
         .upload-label {
             font-size: 22px;
             font-weight: bold;
-            color: #FFFFFF;
+            color: #000000; /* Noir */
             margin-top: 10px;
             margin-bottom: 10px;
         }
+
         /* On agrandit le texte du file_uploader lui-même */
         .stFileUploader label div {
             font-size: 20px !important;
+            color: #000000 !important;
         }
 
-        /* ---- Boutons : style teal ---- */
+        /* ---- Boutons : style moderne ---- */
         .stButton>button {
-            background: linear-gradient(135deg, #7B1FA2, #6A1B9A) !important; /* Dégradé orange */
+            background: linear-gradient(135deg, #42A5F5, #1E88E5) !important; /* Dégradé bleu */
             color: #ffffff !important;
             border-radius: 8px !important;
-            font-size: 20px !important; /* augmente la taille du texte */
+            font-size: 20px !important; /* Augmente la taille du texte */
             padding: 14px 25px !important; 
             margin: 5px 0px !important;
             border: none;
             transition: 0.2s;
-            width: 220px !important;    /* <-- largeur fixe identique pour tous les boutons */
-            white-space: nowrap;        /* empêche le texte de passer à la ligne */
+            width: 220px !important;
+            white-space: nowrap;
+            box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.2);
         }
         .stButton>button:hover {
-            background: linear-gradient(135deg, #FB8C00, #F57C00) !important; 
+            background: linear-gradient(135deg, #1976D2, #1565C0) !important; /* Bleu plus foncé au survol */
             transform: scale(1.03);
         }
 
         /* ---- Boutons de téléchargement ---- */
         .stDownloadButton>button {
-            background: linear-gradient(135deg, #FFA726, #FB8C00) !important; /* Exemple : dégradé violet */
+            background: linear-gradient(135deg, #43A047, #2E7D32) !important; /* Dégradé vert */
             color: white !important;
             border-radius: 25px !important;
-            font-size: 20px !important; /* plus grand */
+            font-size: 20px !important;
             padding: 14px 25px !important;
             margin: 5px 0px !important;
             border: none;
-            width: 220px !important;    /* même largeur que les boutons stButton */
+            width: 220px !important;
             white-space: nowrap;
             box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
         }
         .stDownloadButton>button:hover {
-            background: linear-gradient(135deg, #7B1FA2, #6A1B9A) !important;
+            background: linear-gradient(135deg, #1B5E20, #004D40) !important;
             transform: scale(1.03);
         }
 
@@ -118,7 +122,7 @@ st.markdown("""
             font-size: 20px;
             font-weight: bold;
             text-align: center;
-            color: #FFFFFF;
+            color: #000000; /* Noir */
             margin-top: 40px;
         }
     </style>
