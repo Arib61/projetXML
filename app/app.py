@@ -185,10 +185,9 @@ for key, default_path in default_files.items():
         st.markdown(f"[📥 Télécharger {key.capitalize()} par défaut]({FLASK_BASE_URL}/default-excel/{default_filename})", unsafe_allow_html=True)
 
 # 📥 Conversion en XML en prenant en compte les fichiers sélectionnés ou par défaut
-st.markdown('<p class="sub-title">🛠️ Convertir les fichiers en XMLL</p>', unsafe_allow_html=True)
 if st.button("📤 Convertir les fichiers en XML"):
     for key, default_path in default_files.items():
-        save_path = f"../../data_excel/{key.capitalize()}_GINF2.xlsx"
+        save_path = f"data_excel/{key.capitalize()}_GINF2.xlsx"
 
         if uploaded_files[key]:  # Vérifier si un fichier a été chargé ou sélectionné par défaut
             os.makedirs(os.path.dirname(save_path), exist_ok=True)
@@ -204,11 +203,6 @@ if st.button("📤 Convertir les fichiers en XML"):
                 with open(save_path, "wb") as f:
                     f.write(uploaded_files[key].getbuffer())  # 🔴 Écrire le fichier en mémoire
                 #st.warning(f"⚠️ Aucun fichier chargé pour {key}. Utilisation du fichier par défaut.")
-
-        # 🔥 Conversion en XML
-        requests.get(f"{FLASK_BASE_URL}/convert/{key}", params={"file": f"data_excel/{key.capitalize()}_GINF2.xlsx"})
-        st.success(f"✅ Fichier {key} converti en XML !")
-        st.markdown(f"[📥 Télécharger {key.capitalize()} XML]({FLASK_BASE_URL}/convert/{key})", unsafe_allow_html=True)
 
 
 
@@ -316,3 +310,7 @@ for i in range(0, len(pdf_keys), 4):
 # 7) Pied de page
 # ==========================
 st.markdown('<p class="footer-text">✅ Utilisez les boutons ci-dessus pour gérer vos fichiers.</p>', unsafe_allow_html=True)
+st.markdown('<p class="footer-text"><strong>Travail de :</strong></p>', unsafe_allow_html=True)
+st.markdown('<p class="footer-text"><strong>ARIB AYMANE</strong></p>', unsafe_allow_html=True)
+st.markdown('<p class="footer-text"><strong>ABOU-EL KASEM KENZA</strong></p>', unsafe_allow_html=True)
+st.markdown('<p class="footer-text"><strong>EL BAKALI MALAK</strong></p>', unsafe_allow_html=True)
