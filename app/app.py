@@ -204,6 +204,11 @@ if st.button("📤 Convertir les fichiers en XML"):
                     f.write(uploaded_files[key].getbuffer())  # 🔴 Écrire le fichier en mémoire
                 #st.warning(f"⚠️ Aucun fichier chargé pour {key}. Utilisation du fichier par défaut.")
 
+        # 🔥 Conversion en XML
+        requests.get(f"{FLASK_BASE_URL}/convert/{key}")
+        st.success(f"✅ Fichier {key} converti en XML !")
+        st.markdown(f"[📥 Télécharger {key.capitalize()} XML]({FLASK_BASE_URL}/download/xml/{key})", unsafe_allow_html=True)
+
 
 
 # ==========================
