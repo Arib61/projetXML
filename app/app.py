@@ -289,8 +289,8 @@ html_files2 = {
 pdf_keys = list(html_files2.keys())
 
 # Encore 3 par ligne
-for i in range(0, len(pdf_keys), 3):
-    row_keys = pdf_keys[i:i+3]
+for i in range(0, len(pdf_keys), 4):
+    row_keys = pdf_keys[i:i+4]
     cols = st.columns(len(row_keys))
     for col, key in zip(cols, row_keys):
         with col:
