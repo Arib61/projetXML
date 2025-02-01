@@ -184,7 +184,6 @@ for key, default_path in default_files.items():
         default_filename = os.path.basename(default_path)
         st.markdown(f"[📥 Télécharger {key.capitalize()} par défaut]({FLASK_BASE_URL}/default-excel/{default_filename})", unsafe_allow_html=True)
 
-# 📥 Conversion en XML en prenant en compte les fichiers sélectionnés ou par défaut
 if st.button("📤 Convertir les fichiers en XML"):
     for key, default_path in default_files.items():
         save_path = f"data_excel/{key.capitalize()}_GINF2.xlsx"
@@ -203,6 +202,11 @@ if st.button("📤 Convertir les fichiers en XML"):
                 with open(save_path, "wb") as f:
                     f.write(uploaded_files[key].getbuffer())  # 🔴 Écrire le fichier en mémoire
                 #st.warning(f"⚠️ Aucun fichier chargé pour {key}. Utilisation du fichier par défaut.")
+
+        # 🔥 Conversion en XML
+        requests.get(f"{FLASK_BASE_URL}/convert/{key}")
+        st.success(f"✅ Fichier {key} converti en XML !")
+        st.markdown(f"[📥 Télécharger {key.capitalize()} XML]({FLASK_BASE_URL}/download/xml/{key})", unsafe_allow_html=True)
 
 
 
