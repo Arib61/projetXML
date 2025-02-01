@@ -207,7 +207,7 @@ if st.button("📤 Convertir les fichiers en XML"):
         # 🔥 Conversion en XML
         requests.get(f"{FLASK_BASE_URL}/convert/{key}")
         st.success(f"✅ Fichier {key} converti en XML !")
-        st.markdown(f"[📥 Télécharger {key.capitalize()} XML]({FLASK_BASE_URL}/download/xml/{key})", unsafe_allow_html=True)
+        st.markdown(f"[📥 Télécharger {key.capitalize()} XML]({FLASK_BASE_URL}/convert/{key})", unsafe_allow_html=True)
 
 
 
