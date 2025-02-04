@@ -358,5 +358,5 @@ def serve_generated_files(filename):
 
 @main.route('/pulse')
 def serve_pulse():
-    return send_from_directory(os.path.join(main.root_path, '../static'), 'pulse.html')
+    return send_from_directory(os.path.join(main.root_path, '../static/images'), 'pulse.html')
 
