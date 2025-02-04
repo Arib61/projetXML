@@ -355,3 +355,8 @@ def serve_generated_files(filename):
     Sert les fichiers HTML générés dans le dossier `data_generated`
     """
     return send_from_directory(os.path.join(os.getcwd(), 'data_generated'), filename)
+
+@main.route('/pulse')
+def serve_pulse():
+    return send_from_directory(os.path.join(main.root_path, '../static'), 'pulse.html')
+
